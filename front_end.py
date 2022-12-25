@@ -6,3 +6,4 @@ Created on Sun Dec 25 21:38:40 2022
 """
 
 button1 = "red"
+button2 = "green"
